@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MatrixIllustrator
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MatrixIllustrator\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=matrix
+comment1.target=void\ drawMatrix(int[][])
+comment2.params=map
+comment2.target=void\ drawGrid(int[][])
+comment3.params=map
+comment3.target=void\ drawElements(int[][])
+comment3.text=\r\n\ 0\ \=\ empty\r\n\ 1\ \=\ wall\r\n\ 2\ \=\ path\r\n\ 3\ \=\ start\r\n\ 4\ \=\ end\r\n
+comment4.params=x\ y\ cellWidth\ cellHeight
+comment4.target=void\ drawFillCell(double,\ double,\ double,\ double)
+comment5.params=x\ y\ cellWidth\ cellHeight
+comment5.target=void\ drawCell(double,\ double,\ double,\ double)
+numComments=6
